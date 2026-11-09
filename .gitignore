@@ -12,3 +12,4 @@ build/sample
 !build/notes.txt
 
 
+**/.claude/settings.local.json
